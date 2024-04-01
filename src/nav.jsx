@@ -11,7 +11,7 @@ function Nav(){
             <li className='px-7'><a href="">Contact</a></li>
             <li className='px-7'><a href="">Support</a></li>
             <li className='px-7'><a href="">Partnership</a></li>
-            <img src={downloadButton} alt='Download' className='h-9 -mt-1 ml-40' />
+            <a href=""><img src={downloadButton} alt='Download' className='h-9 -mt-1 ml-40' /></a>
         </ul>
     </nav>
     )
