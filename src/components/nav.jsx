@@ -14,7 +14,6 @@ function Nav(){
                 <li><a href="">Support</a></li>
                 <li><a href="">Partnership</a></li>
             </ul>
-            
             <a href=""><img src={downloadButton} alt='Download' className='h-9 -mt-1'/></a>
         </ul>
         
